@@ -1,1 +1,2 @@
 Hola, estic modificant el fitxer desde la branca master
+Hola, estic modificant el text desde la branca branch1.
